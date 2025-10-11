@@ -1,0 +1,335 @@
+[submodule "oca/account-reconcile"]
+	path = oca/account-reconcile
+	url = https://github.com/OCA/account-reconcile.git
+	branch = 18.0
+[submodule "oca/stock-logistics-warehouse"]
+	path = oca/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = 18.0
+[submodule "oca/product-attribute"]
+	path = oca/product-attribute
+	url = https://github.com/OCA/product-attribute.git
+	branch = 18.0
+[submodule "oca/helpdesk"]
+	path = oca/helpdesk
+	url = https://github.com/OCA/helpdesk.git
+	branch = 18.0
+[submodule "oca/dms"]
+	path = oca/dms
+	url = https://github.com/OCA/dms.git
+	branch = 18.0
+[submodule "oca/purchase-workflow"]
+	path = oca/purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = 18.0
+[submodule "oca/field-service"]
+	path = oca/field-service
+	url = https://github.com/OCA/field-service.git
+	branch = 18.0
+[submodule "oca/survey"]
+	path = oca/survey
+	url = https://github.com/OCA/survey.git
+	branch = 18.0
+[submodule "oca/sale-workflow"]
+	path = oca/sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+	branch = 18.0
+[submodule "oca/web"]
+	path = oca/web
+	url = https://github.com/OCA/web.git
+	branch = 18.0
+[submodule "oca/manufacture-reporting"]
+	path = oca/manufacture-reporting
+	url = https://github.com/OCA/manufacture-reporting.git
+	branch = 18.0
+[submodule "oca/event"]
+	path = oca/event
+	url = https://github.com/OCA/event.git
+	branch = 18.0
+[submodule "oca/bank-payment-alternative"]
+	path = oca/bank-payment-alternative
+	url = https://github.com/OCA/bank-payment-alternative.git
+	branch = 18.0
+[submodule "oca/stock-weighing"]
+	path = oca/stock-weighing
+	url = https://github.com/OCA/stock-weighing.git
+	branch = 18.0
+[submodule "oca/timesheet"]
+	path = oca/timesheet
+	url = https://github.com/OCA/timesheet.git
+	branch = 18.0
+[submodule "oca/wms"]
+	path = oca/wms
+	url = https://github.com/OCA/wms.git
+	branch = 18.0
+[submodule "oca/stock-logistics-request"]
+	path = oca/stock-logistics-request
+	url = https://github.com/OCA/stock-logistics-request.git
+	branch = 18.0
+[submodule "oca/vertical-abbey"]
+	path = oca/vertical-abbey
+	url = https://github.com/OCA/vertical-abbey.git
+	branch = 18.0
+[submodule "oca/queue"]
+	path = oca/queue
+	url = https://github.com/OCA/queue.git
+	branch = 18.0
+[submodule "oca/e-commerce"]
+	path = oca/e-commerce
+	url = https://github.com/OCA/e-commerce.git
+	branch = 18.0
+[submodule "oca/bank-statement-import"]
+	path = oca/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+	branch = 18.0
+[submodule "oca/edi"]
+	path = oca/edi
+	url = https://github.com/OCA/edi.git
+	branch = 18.0
+[submodule "oca/stock-logistics-workflow"]
+	path = oca/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = 18.0
+[submodule "oca/cooperative"]
+	path = oca/cooperative
+	url = https://github.com/OCA/cooperative.git
+	branch = 18.0
+[submodule "oca/product-variant"]
+	path = oca/product-variant
+	url = https://github.com/OCA/product-variant.git
+	branch = 18.0
+[submodule "oca/server-brand"]
+	path = oca/server-brand
+	url = https://github.com/OCA/server-brand.git
+	branch = 18.0
+[submodule "oca/delivery-carrier"]
+	path = oca/delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+	branch = 18.0
+[submodule "oca/multi-company"]
+	path = oca/multi-company
+	url = https://github.com/OCA/multi-company.git
+	branch = 18.0
+[submodule "oca/sale-prebook"]
+	path = oca/sale-prebook
+	url = https://github.com/OCA/sale-prebook.git
+	branch = 18.0
+[submodule "oca/hr-expense"]
+	path = oca/hr-expense
+	url = https://github.com/OCA/hr-expense.git
+	branch = 18.0
+[submodule "oca/pms"]
+	path = oca/pms
+	url = https://github.com/OCA/pms.git
+	branch = 18.0
+[submodule "oca/currency"]
+	path = oca/currency
+	url = https://github.com/OCA/currency.git
+	branch = 18.0
+[submodule "oca/stock-logistics-tracking"]
+	path = oca/stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking.git
+	branch = 18.0
+[submodule "oca/sign"]
+	path = oca/sign
+	url = https://github.com/OCA/sign.git
+	branch = 18.0
+[submodule "oca/stock-logistics-barcode"]
+	path = oca/stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+	branch = 18.0
+[submodule "oca/contract"]
+	path = oca/contract
+	url = https://github.com/OCA/contract.git
+	branch = 18.0
+[submodule "oca/odoo-pim"]
+	path = oca/odoo-pim
+	url = https://github.com/OCA/odoo-pim.git
+	branch = 18.0
+[submodule "oca/account-payment"]
+	path = oca/account-payment
+	url = https://github.com/OCA/account-payment.git
+	branch = 18.0
+[submodule "oca/credit-control"]
+	path = oca/credit-control
+	url = https://github.com/OCA/credit-control.git
+	branch = 18.0
+[submodule "oca/connector-telephony"]
+	path = oca/connector-telephony
+	url = https://github.com/OCA/connector-telephony.git
+	branch = 18.0
+[submodule "oca/social"]
+	path = oca/social
+	url = https://github.com/OCA/social.git
+	branch = 18.0
+[submodule "oca/server-ux"]
+	path = oca/server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 18.0
+[submodule "oca/operating-unit"]
+	path = oca/operating-unit
+	url = https://github.com/OCA/operating-unit.git
+	branch = 18.0
+[submodule "oca/reporting-engine"]
+	path = oca/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 18.0
+[submodule "oca/account-closing"]
+	path = oca/account-closing
+	url = https://github.com/OCA/account-closing.git
+	branch = 18.0
+[submodule "oca/pos"]
+	path = oca/pos
+	url = https://github.com/OCA/pos.git
+	branch = 18.0
+[submodule "oca/calendar"]
+	path = oca/calendar
+	url = https://github.com/OCA/calendar.git
+	branch = 18.0
+[submodule "oca/repair"]
+	path = oca/repair
+	url = https://github.com/OCA/repair.git
+	branch = 18.0
+[submodule "oca/server-backend"]
+	path = oca/server-backend
+	url = https://github.com/OCA/server-backend.git
+	branch = 18.0
+[submodule "oca/shopfloor-app"]
+	path = oca/shopfloor-app
+	url = https://github.com/OCA/shopfloor-app.git
+	branch = 18.0
+[submodule "oca/margin-analysis"]
+	path = oca/margin-analysis
+	url = https://github.com/OCA/margin-analysis.git
+	branch = 18.0
+[submodule "oca/mail"]
+	path = oca/mail
+	url = https://github.com/OCA/mail.git
+	branch = 18.0
+[submodule "oca/account-financial-reporting"]
+	path = oca/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 18.0
+[submodule "oca/sale-reporting"]
+	path = oca/sale-reporting
+	url = https://github.com/OCA/sale-reporting.git
+	branch = 18.0
+[submodule "oca/commission"]
+	path = oca/commission
+	url = https://github.com/OCA/commission.git
+	branch = 18.0
+[submodule "oca/hr-holidays"]
+	path = oca/hr-holidays
+	url = https://github.com/OCA/hr-holidays.git
+	branch = 18.0
+[submodule "oca/mis-builder"]
+	path = oca/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 18.0
+[submodule "oca/account-financial-tools"]
+	path = oca/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+	branch = 18.0
+[submodule "oca/account-analytic"]
+	path = oca/account-analytic
+	url = https://github.com/OCA/account-analytic.git
+	branch = 18.0
+[submodule "oca/crm"]
+	path = oca/crm
+	url = https://github.com/OCA/crm.git
+	branch = 18.0
+[submodule "oca/donation"]
+	path = oca/donation
+	url = https://github.com/OCA/donation.git
+	branch = 18.0
+[submodule "oca/stock-logistics-reservation"]
+	path = oca/stock-logistics-reservation
+	url = https://github.com/OCA/stock-logistics-reservation.git
+	branch = 18.0
+[submodule "oca/manufacture"]
+	path = oca/manufacture
+	url = https://github.com/OCA/manufacture.git
+	branch = 18.0
+[submodule "ingadhoc/account-financial-tools"]
+	path = ingadhoc/account-financial-tools
+	url = https://github.com/ingadhoc/account-financial-tools.git
+	branch = 18.0
+[submodule "ingadhoc/account-payment"]
+	path = ingadhoc/account-payment
+	url = https://github.com/ingadhoc/account-payment.git
+	branch = 18.0
+[submodule "ingadhoc/odoo-argentina"]
+	path = ingadhoc/odoo-argentina
+	url = https://github.com/ingadhoc/odoo-argentina.git
+	branch = 18.0
+[submodule "ingadhoc/odoo-argentina-ee"]
+	path = ingadhoc/odoo-argentina-ee
+	url = https://github.com/ingadhoc/odoo-argentina-ee.git
+	branch = 18.0
+[submodule "ingadhoc/miscellaneous"]
+	path = ingadhoc/miscellaneous
+	url = https://github.com/ingadhoc/miscellaneous.git
+	branch = 18.0
+[submodule "ingadhoc/sale"]
+	path = ingadhoc/sale
+	url = https://github.com/ingadhoc/sale.git
+	branch = 18.0
+[submodule "ingadhoc/multi-store"]
+	path = ingadhoc/multi-store
+	url = https://github.com/ingadhoc/multi-store.git
+	branch = 18.0
+[submodule "ingadhoc/hr"]
+	path = ingadhoc/hr
+	url = https://github.com/ingadhoc/hr.git
+	branch = 18.0
+[submodule "ingadhoc/project"]
+	path = ingadhoc/project
+	url = https://github.com/ingadhoc/project.git
+	branch = 18.0
+[submodule "ingadhoc/argentina-sale"]
+	path = ingadhoc/argentina-sale
+	url = https://github.com/ingadhoc/argentina-sale.git
+	branch = 18.0
+[submodule "ingadhoc/multi-company"]
+	path = ingadhoc/multi-company
+	url = https://github.com/ingadhoc/multi-company.git
+	branch = 18.0
+#[submodule "ingadhoc/website"]
+#	path = ingadhoc/website
+#	url = https://github.com/ingadhoc/website.git
+#	branch = 18.0
+[submodule "ingadhoc/partner"]
+	path = ingadhoc/partner
+	url = https://github.com/ingadhoc/partner.git
+	branch = 18.0
+[submodule "ingadhoc/product"]
+	path = ingadhoc/product
+	url = https://github.com/ingadhoc/product.git
+	branch = 18.0
+[submodule "ingadhoc/purchase"]
+	path = ingadhoc/purchase
+	url = https://github.com/ingadhoc/purchase.git
+	branch = 18.0
+[submodule "ingadhoc/stock"]
+	path = ingadhoc/stock
+	url = https://github.com/ingadhoc/stock.git
+	branch = 18.0
+[submodule "ingadhoc/account-invoicing"]
+	path = ingadhoc/account-invoicing
+	url = https://github.com/ingadhoc/account-invoicing.git
+	branch = 18.0
+
+[submodule "OCA/brand"]
+	path = OCA/brand
+	url = git@github.com:OCA/brand.git
+	branch = 18.0
+
+[submodule "OCA/brand"]
+	path = OCA/brand
+	url = git@github.com:OCA/brand.git
+	branch = 18.0
+
+[submodule "internal-addons/hito-devman"]
+	path = internal-addons/hito-devman
+	url = git@github.com:ntsystemwork/hito-devman.git
+	branch = 18.0
