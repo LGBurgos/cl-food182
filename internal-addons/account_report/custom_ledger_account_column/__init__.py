@@ -1,9 +1,8 @@
 from . import models
 
 
-def post_init_hook(cr, registry):
-    from odoo import api, SUPERUSER_ID
-
+def post_init_hook(env):
+    registry = env.registry
     # Evitamos errores si el modelo no está presente
     if "account.general.ledger" not in registry.models:
         return
@@ -20,8 +19,14 @@ def post_init_hook(cr, registry):
                 current_account_code = line.get("columns", [{}])[0].get("name", "")
             if line.get("caret_options") == "account.move.line":
                 line.setdefault("columns", [])
-                line["columns"].insert(0, {"name": current_account_code, "no_format": current_account_code})
-                line["columns"].insert(1, {"name": current_account_name, "no_format": current_account_name})
+                line["columns"].insert(0, {
+                    "name": current_account_code,
+                    "no_format": current_account_code,
+                })
+                line["columns"].insert(1, {
+                    "name": current_account_name,
+                    "no_format": current_account_name,
+                })
         return lines
 
     Model._get_lines = _get_lines
